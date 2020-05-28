@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Jogo_da_forca_v1/.idea/Jogo_da_forca_v1.iml
+Jogo_da_forca_v1/.idea/inspectionProfiles/profiles_settings.xml
+Jogo_da_forca_v1/.idea/rSettings.xml
+Jogo_da_forca_v1/.idea/rpackages.xml
+Jogo_da_forca_v1/.idea/modules.xml
+Jogo_da_forca_v1/.idea/misc.xml
